@@ -23,6 +23,6 @@ public final class OSLoggerDestination: LoggerDestination {
     }
 
     public func log(_ message: String) {
-        os_log("%@", log: self.osLog, "%{time_t}d – \(message)")
+        os_log("%@", log: self.osLog, message)
     }
 }
