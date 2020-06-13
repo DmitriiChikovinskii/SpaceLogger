@@ -15,7 +15,8 @@ func makeLogger(tag: String) -> Logger {
     return SpaceLogger(destinations: destinations)
 }
 
-log.debug("sup?")
+log.info("Some useful info")
+log.debug("Some info to debug")
 ```
 
 ## Installation
