@@ -1,4 +1,5 @@
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/SpaceLogger.svg)](https://img.shields.io/cocoapods/v/SpaceLogger.svg)
+[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 - [Usage](#usage)
 - [Installation](#installation)
@@ -27,4 +28,12 @@ log.debug("Some info to debug")
 
 ```ruby
 pod 'SpaceLogger'
+```
+
+### Carthage
+
+[Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency manager that builds your dependencies and provides you with binary frameworks. To integrate Alamofire into your Xcode project using Carthage, specify it in your `Cartfile`:
+
+```ogdl
+github "DmitriiChikovinskii/SpaceLogger"
 ```
