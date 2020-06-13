@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 spec.name           = "SpaceLogger"
 spec.ios.deployment_target = "10.0"
 spec.summary        = "Simple logger for swift project."
-spec.version        = "0.1.0"
+spec.version        = "0.1.1"
 spec.license        = { :type => "MIT", :file => "LICENSE.md" }
 spec.author         = { "Dmitrii Chikovinskii" => "git@dmitrii.space" }
 spec.homepage       = "https://github.com/DmitriiChikovinskii/SpaceLogger"
