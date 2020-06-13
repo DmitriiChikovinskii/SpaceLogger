@@ -24,7 +24,7 @@ log.debug("Some info to debug")
 
 ### CocoaPods
 
-[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate Alamofire into your Xcode project using CocoaPods, specify it in your `Podfile`:
+[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate SpaceLogger into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
 pod 'SpaceLogger'
@@ -32,7 +32,7 @@ pod 'SpaceLogger'
 
 ### Carthage
 
-[Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency manager that builds your dependencies and provides you with binary frameworks. To integrate Alamofire into your Xcode project using Carthage, specify it in your `Cartfile`:
+[Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency manager that builds your dependencies and provides you with binary frameworks. To integrate SpaceLogger into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
 github "DmitriiChikovinskii/SpaceLogger"
